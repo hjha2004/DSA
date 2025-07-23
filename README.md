@@ -1,3 +1,3 @@
 # DSA
 Practicing DSA
-Himanshu Jha
+Author - Himanshu Jha
